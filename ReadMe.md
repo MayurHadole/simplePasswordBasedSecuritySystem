@@ -1,7 +1,11 @@
 /*  FILE          : simplePasswordBasedSecuritySystem.ino
+
     PROJECT       : PROG8125-16S
-    PROGRAMMER    : Mayur Hadole (5783)
+    
+    PROGRAMMER    : Mayur Hadole
+    
     FIRST VERSION : 2016-06-12
+    
     DESCRIPTION   :
        This program takes input(i.e passcode of 4 digit/character
     or combilnation of both ) from user through serial port and
